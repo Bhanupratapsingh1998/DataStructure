@@ -13,7 +13,8 @@ public class selection_sort {
 //        int arr[] = {-4, 0, 0, 1, 1, 2, 5, 8};
 //        int arr[] = {34, 11, 23, 12, 1};
 
-        /*It mainntains two subarrays in a given array.
+        /*Find the minimum element and swap element with that
+            It mainntains two subarrays in a given array.
         1. The subarray which is already sorted.
         2. Remaining subarray which is unsorted.*/
         System.out.println("arrays is : " + Arrays.toString(arr));

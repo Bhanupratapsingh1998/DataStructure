@@ -13,7 +13,8 @@ public class insertion_sort {
 //        int arr[] = {-4, 0, 0, 1, 1, 2, 5, 8};
 //        int arr[] = {34, 11, 23, 12, 1};
 
-        /*Its start at the 1 index */
+        /*Its start at the 1 index and its insert the element backword order.
+         Basically, Insertion sort is efficient for small data values*/
         System.out.println("arrays is : " + Arrays.toString(arr));
         int temp, j;
         for (int i = 1; i < arr.length; i++) {
