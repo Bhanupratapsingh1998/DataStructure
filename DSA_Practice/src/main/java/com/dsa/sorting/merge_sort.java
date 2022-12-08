@@ -1,7 +1,7 @@
 package com.dsa.sorting;
 /**
  *
- * @author hashstudioz
+ * @author user
  */
 public class merge_sort {
 

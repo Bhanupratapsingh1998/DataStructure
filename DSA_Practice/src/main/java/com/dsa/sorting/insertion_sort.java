@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author hashstudioz
+ * @author user
  */
 public class insertion_sort {
 
